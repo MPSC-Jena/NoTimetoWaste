@@ -13,5 +13,3 @@ How do you navigate a garbage truck safely and efficiently through narrow street
 **Your Challenge**
 
 Your task is to develop a prototype that integrates municipal GIS data with OpenStreetMap and the Valhalla routing service. The goal is to create realistic navigation specifically for garbage trucks that identifies problematic roads and takes vehicle-specific requirements—such as width, length, and turning radius—into account. We’re looking for creative approaches to data-driven mobility and smart urban logistics!
-
-Translated with DeepL.com (free version)
