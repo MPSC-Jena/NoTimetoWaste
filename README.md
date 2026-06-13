@@ -31,7 +31,7 @@ uv add fastapi uvicorn geopy requests folium polyline geopandas fiona mapclassif
 ### 2. Start the Valhalla Routing Server
 The Valhalla routing engine (including Jena's graph data) is bundled via Docker.
 ```bash
-# Extract the provided Valhalla data
+# Run this from the root directory to extract the provided Valhalla data
 uv run python extract_valhalla.py
 
 # Start the Valhalla Docker container (runs on port 8002)
